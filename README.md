@@ -5,4 +5,4 @@ This project is a part of FreeCodeCamp coruse **Data Analysis with Python**
 
 Real Life Example of a Python/Pandas Data Analysis project - A demonstration of a real life data analysis project using Python, Pandas, SQL and Seaborn
 
-#### Pandas-Real-Life-Example
+#### Project name Pandas-Real-Life-Example
