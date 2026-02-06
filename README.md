@@ -1,4 +1,4 @@
-# Bike_store_sales
+# Bike Store Sales
 In this work I will be analysing sales made on bike stores.
 
 This project is a part of FreeCodeCamp coruse **Data Analysis with Python**
