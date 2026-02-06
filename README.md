@@ -10,3 +10,6 @@ Real Life Example of a Python/Pandas Data Analysis project - A demonstration of 
 All the data analysis **Jupyter Notebooks** are uploaded inside the **notebook** folder
 
 #### Project name Bike Store data Analysis using Python 
+
+
+**KeyWords :** **Python**, **Pandas**, and **Seaborn**
