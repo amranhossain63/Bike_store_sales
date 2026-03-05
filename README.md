@@ -1,5 +1,6 @@
 # Bike Store Sales
-In this work I will be analysing sales made on bike stores.
+
+In this work will be analysing sales made on bike stores.
 
 This project is a part of FreeCodeCamp coruse **Data Analysis with Python**
 
